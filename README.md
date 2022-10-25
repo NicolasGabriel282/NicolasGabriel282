@@ -20,4 +20,5 @@ Olá, me chamo Nicolas Gabriel,<b>sou um desenvolvedor back-end.</b>
 <h3>:calling:Conecte-se comigo</h3>
 <div>
 <a href="https://www.linkedin.com/in/nicolas-gabriel-99383a1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href = "mailto:contato.nicolasneres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
