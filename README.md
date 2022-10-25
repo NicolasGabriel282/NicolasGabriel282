@@ -5,7 +5,7 @@
 Olá, me chamo Nicolas Gabriel,<b>sou um desenvolvedor back-end.</b>
 <ul>
 <li>:books:Realizado curso técnico de <b>Desenvolvimento de Sistemas</b> no SENAI</l1>
-<li>:mailbox:Contato:<A href="contato.nicolasneres@gmail.com">contato.nicolasneres@gmail.com</li></a>
+<li>:mailbox:Contato:<A href="mailto:contato.nicolasneres@gmail.com">contato.nicolasneres@gmail.com</li></a>
 </ul>
 <hr>
 <h3>:desktop_computer:<b>Tecnologias</b></h3>
