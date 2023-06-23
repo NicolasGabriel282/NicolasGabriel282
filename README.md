@@ -14,6 +14,7 @@ Olá, me chamo Nicolas Gabriel,<b>sou um programador.</b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90" height="90" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width='90' height='90' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width='90' height='90' />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='90' height='90' />
 </div>
 <hr>
 <h3>Estatisticas</h3>
