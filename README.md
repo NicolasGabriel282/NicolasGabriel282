@@ -1,7 +1,7 @@
 <h1 align='center'> Bem vindo ao meu perfil </h1>
 
 <h3>:wave:<b>Sobre mim</b></h3>
-Olá, me chamo Nicolas Gabriel,<b>sou um programador.</b>
+Olá, me chamo Nicolas Gabriel.</b>
 <ul>
 <li>:books:<b>Técnico em Desenvolvimento de Sistemas</b> no SENAI</l1>
 <li>:mailbox:Contato:<A href="mailto:contato.nicolasneres@gmail.com">contato.nicolasneres@gmail.com</li></a>
